@@ -5,7 +5,7 @@ Welcome to Texter! A place where you can make friends, request friends, change p
 Any explicit content chatted such as slurs, swearing, offense, or anything else at section "Explicit Content" will get you banned, Please abide by the rules
 
 # Just Remember!
-If you were falsely banned, contact via Outlook at appeal@texter.com.
+If you were falsely banned, contact via Gmail to aidenforina@gmail.com
 If a person is being mean to you, but too soft to be reported, you can block them.
 
 # Rules
@@ -45,3 +45,6 @@ Your chat will be locked if a word has been hashtagged, even on a seperate comme
 # Have fun using Texter!
 ![dc67001e0c9709066b2efdf87bbaa47b_w200](https://github.com/user-attachments/assets/7c8fddd7-4710-45e5-85f0-5ea6b169f751)
 <br>nyan cat >w<
+
+# Contact
+Aiden - aidenforina@gmail.com
