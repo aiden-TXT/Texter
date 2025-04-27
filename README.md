@@ -48,3 +48,4 @@ Your chat will be locked if a word has been hashtagged, even on a seperate comme
 
 # Contact
 Aiden - aidenforina@gmail.com
+Daman - damansarvar@gmail.com
